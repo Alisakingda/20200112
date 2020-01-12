@@ -1,5 +1,5 @@
 {
-  "name": "0112",
+  "name": "socket",
   "version": "1.0.0",
   "description": "## 实现 socket 的方式",
   "main": "index.js",
