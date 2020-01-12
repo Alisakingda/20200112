@@ -1,0 +1,23 @@
+{
+  "name": "0112",
+  "version": "1.0.0",
+  "description": "## 实现 socket 的方式",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Alisakingda/20200112.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Alisakingda/20200112/issues"
+  },
+  "homepage": "https://github.com/Alisakingda/20200112#readme",
+  "devDependencies": {
+    "ws": "^7.2.1"
+  }
+}
